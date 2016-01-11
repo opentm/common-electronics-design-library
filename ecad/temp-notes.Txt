@@ -1,0 +1,23 @@
+Logikgrundar
+
+Linjär Vreg Standard spänningar (3.3V, 5V, .. 24V)
+
+USB3
+Läss till USB shield på usb2 och usb3 kontakt
+
+Alfanumeric display
+
+Infotable (Version/OC-OK/etc)
+
+OpenTM logo
+
+PCB antenner till antennsymbol
+- MHz/GHz symbol ? eller LF/MF/VHF/UHF
+
+Coax kontakter, älgit få pcb
+
+Asynkron motor
+BLDC Motor
+Generator
+
+
